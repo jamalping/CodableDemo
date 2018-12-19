@@ -14,6 +14,7 @@
 		18FBC38121C9E74300FBD25C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18FBC37F21C9E74300FBD25C /* LaunchScreen.storyboard */; };
 		18FBC38C21C9E74300FBD25C /* CodableDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18FBC38B21C9E74300FBD25C /* CodableDemoTests.swift */; };
 		18FBC39721C9E74300FBD25C /* CodableDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18FBC39621C9E74300FBD25C /* CodableDemoUITests.swift */; };
+		18FBC3A521C9E76400FBD25C /* json.strings in Resources */ = {isa = PBXBuildFile; fileRef = 18FBC3A421C9E76400FBD25C /* json.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		18FBC39221C9E74300FBD25C /* CodableDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CodableDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18FBC39621C9E74300FBD25C /* CodableDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableDemoUITests.swift; sourceTree = "<group>"; };
 		18FBC39821C9E74300FBD25C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18FBC3A421C9E76400FBD25C /* json.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = json.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				18FBC37621C9E74000FBD25C /* AppDelegate.swift */,
 				18FBC37821C9E74000FBD25C /* ViewController.swift */,
+				18FBC3A421C9E76400FBD25C /* json.strings */,
 				18FBC37A21C9E74000FBD25C /* Main.storyboard */,
 				18FBC37D21C9E74300FBD25C /* Assets.xcassets */,
 				18FBC37F21C9E74300FBD25C /* LaunchScreen.storyboard */,
@@ -231,6 +234,7 @@
 			files = (
 				18FBC38121C9E74300FBD25C /* LaunchScreen.storyboard in Resources */,
 				18FBC37E21C9E74300FBD25C /* Assets.xcassets in Resources */,
+				18FBC3A521C9E76400FBD25C /* json.strings in Resources */,
 				18FBC37C21C9E74000FBD25C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

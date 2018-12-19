@@ -1,0 +1,1 @@
+"{\n    \"class_id\" = 2;\n    \"sub_classes\" =     (\n                {\n            \"class_id\" = 1;\n            title = subTitle;\n        }\n    );\n    title = title;\n    type = 2;\n}"
